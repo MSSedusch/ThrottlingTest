@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrottlingTest", "ThrottlingTest.csproj", "{309E1AE8-29E5-421F-B121-208F786ABD23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309E1AE8-29E5-421F-B121-208F786ABD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309E1AE8-29E5-421F-B121-208F786ABD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309E1AE8-29E5-421F-B121-208F786ABD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309E1AE8-29E5-421F-B121-208F786ABD23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75407B4-DAFF-4E66-AA34-3D14A52CE037}
+	EndGlobalSection
+EndGlobal
